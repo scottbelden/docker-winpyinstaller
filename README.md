@@ -23,7 +23,7 @@ be built.
 To build the executable, simply do the following:
 
 ```sh
-./run /path/to/source /path/to/script.py
+./run.sh /path/to/source /path/to/script.py
 ```
 
 If your script has dependencies, they should be defined in a requirements.txt
