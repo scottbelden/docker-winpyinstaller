@@ -1,3 +1,5 @@
+NOTICE: Due to bit rot this repo no longer works as intended. I don't have the need for the utility anymore and so I'm not going to spend the time to fix the problem or update it. If someone does use it and is so kind to make a pull request that fixes the current issues I would be glad to merge them. Thanks!
+
 docker-winpyinstaller
 =====================
 
